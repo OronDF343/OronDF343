@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm a C# / .NET developer, who is also interested in C
+- I work full-time as a software developer (mostly ASP.NET Core backend)
 - On GitHub, I'm working on a few smaller projects, which will be made public "soon"
